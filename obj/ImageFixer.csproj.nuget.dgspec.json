@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\repo\\ImageFixerScript\\ImageFixer.csproj": {}
+    "D:\\source\\repo\\ImageFixer\\ImageFixer.csproj": {}
   },
   "projects": {
-    "D:\\source\\repo\\ImageFixerScript\\ImageFixer.csproj": {
+    "D:\\source\\repo\\ImageFixer\\ImageFixer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repo\\ImageFixerScript\\ImageFixer.csproj",
+        "projectUniqueName": "D:\\source\\repo\\ImageFixer\\ImageFixer.csproj",
         "projectName": "ImageFixer",
-        "projectPath": "D:\\source\\repo\\ImageFixerScript\\ImageFixer.csproj",
+        "projectPath": "D:\\source\\repo\\ImageFixer\\ImageFixer.csproj",
         "packagesPath": "C:\\Users\\Rayane\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repo\\ImageFixerScript\\obj\\",
+        "outputPath": "D:\\source\\repo\\ImageFixer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rayane\\AppData\\Roaming\\NuGet\\NuGet.Config",

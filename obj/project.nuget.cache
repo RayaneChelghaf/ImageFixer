@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o25cuZeBeui//4TqoMW1g9JpYiBLo9bogiZGnoLzTjSHj0wy1znr1lvt6P3ugSJOu2Y/TXzrqEOjEs4oSodNeQ==",
+  "dgSpecHash": "bS5kpMPVVbygdIwrGP/r8kYPOkwxyCFy69Gghgcd6JNr1VdTrg9mZkLj4HxrunrW8PsKN/iIEBdSnNphrZC1NA==",
   "success": true,
-  "projectFilePath": "D:\\source\\repo\\ImageFixerScript\\ImageFixer.csproj",
+  "projectFilePath": "D:\\source\\repo\\ImageFixer\\ImageFixer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rayane\\.nuget\\packages\\excss\\4.1.4\\excss.4.1.4.nupkg.sha512",
     "C:\\Users\\Rayane\\.nuget\\packages\\fizzler\\1.2.1\\fizzler.1.2.1.nupkg.sha512",
