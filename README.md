@@ -21,9 +21,13 @@ Créez la solution.
 
 ## Utilisation :
 Ouvrez un terminal de commande.
+
 Accédez au répertoire contenant le fichier exécutable construit.
+
 Exécutez le fichier exécutable avec la commande suivante : dotnet ImageFixer.dll
+
 L’application traitera tous les fichiers dans inDirectory et les affichera dans outDirectory.
+
 
 ## Configuration :
 Les variables suivantes peuvent être modifiées dans le fichier program.cs pour configurer l’application :
