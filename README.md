@@ -1,4 +1,4 @@
-# ImageFixerScript
+# ImageFixer
 
 ## Version .NET du script de transformation et de redimensionnement d'image en format PNG
 
@@ -17,7 +17,7 @@ Créez la solution.
 ## Utilisation :
 Ouvrez un terminal de commande.
 Accédez au répertoire contenant le fichier exécutable construit.
-Exécutez le fichier exécutable avec la commande suivante : dotnet ImageFixerScript.dll
+Exécutez le fichier exécutable avec la commande suivante : dotnet ImageFixer.dll
 L’application traitera tous les fichiers dans inDirectory et les affichera dans outDirectory.
 
 ## Configuration :
